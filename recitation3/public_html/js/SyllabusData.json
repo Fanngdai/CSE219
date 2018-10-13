@@ -1,0 +1,49 @@
+{
+    "startHour": "9",
+    "endHour": "20",
+    "officeHours":
+	[
+	{   "day": "TUESDAY",	"time": "4_00pm",  "name": "Richard McKenna<br />" },
+	{   "day": "TUESDAY",	"time": "4_30pm",  "name": "Richard McKenna<br />" },
+	{   "day": "TUESDAY",	"time": "5_00pm",  "name": "Richard McKenna<br />" },
+	
+	{   "day": "THURSDAY",	"time": "4_00pm",  "name": "Richard McKenna<br />" },
+	{   "day": "THURSDAY",	"time": "4_30pm",  "name": "Richard McKenna<br />" },
+	{   "day": "THURSDAY",	"time": "5_00pm",  "name": "Richard McKenna<br />" },
+
+        {   "day": "TUESDAY",   "time": "1_00pm",  "name": "Lecture" },
+        {   "day": "TUESDAY",   "time": "1_30pm",  "name": "Lecture" },
+        {   "day": "TUESDAY",   "time": "2_00pm",  "name": "Lecture" },
+        {   "day": "THURSDAY",   "time": "1_00pm",  "name": "Lecture" },
+        {   "day": "THURSDAY",   "time": "1_30pm",  "name": "Lecture" },
+        {   "day": "THURSDAY",   "time": "2_00pm",  "name": "Lecture" }
+    
+    ],
+    "undergrad_tas": [
+        {   "name":	"Aarin Chase aarin.chase@stonybrook.edu" },
+        {   "name":	"Ali Afzal ali.afzal@stonybrook.edu" },
+        {   "name":	"Anthony Roy anthony.roy@stonybrook.edu" },
+        {   "name":	"Bryan Robicheau bryan.robicheau@stonybrook.edu" },
+        {   "name":	"Calvin Cheng",   "email":   "calvin.cheng@stonybrook.edu" },
+        {   "name":	"Chaeyoung Lee chaeyoung.lee@stonybrook.edu" },
+        {   "name":	"Hsiang-Ju Lai hsiang-ju.lai@stonybrook.edu" },
+        {   "name":	"Jacob Evans jacob.evans@stonybrook.edu" },
+        {   "name":	"James Hoffman james.hoffman@stonybrook.edu" },
+        {   "name":	"Jamie Kunzmann jamie.kunzmann@stonybrook.edu" },
+        {   "name":	"Jenny Li jenny.li@stonybrook.edu" },
+        {   "name":	"Jerrel Sogoni jerrel.sogoni@stonybrook.edu" },
+        {   "name":	"Michael Mathew michael.mathew@stonybrook.edu" },
+        {   "name":	"Milto Ndrenika milto.ndrenika@stonybrook.edu" },
+        {   "name":	"Robert Trujillo robert.trujillo@stonybrook.edu" },
+        {   "name":	"Serge Crane serge.crane@stonybrook.edu" },
+        {   "name":	"Yu Zhao yu.zhao@stonybrook.edu" }
+    ],
+    "recitations": [
+        {   "section": "<strong>R01</strong> (McKenna)",    "day_time": "Mondays, 3:30pm-4:23pm",       "location": "Old Computer Science 2114", "ta_1": "TBD", "ta_2": "TBD" },
+        {   "section": "<strong>R02</strong> (McKenna)",    "day_time": "Wednesdays, 3:30pm-4:23pm",    "location": "Old Computer Science 2114", "ta_1": "TBD", "ta_2": "TBD" },
+        {   "section": "<strong>R03</strong> (McKenna)",    "day_time": "Mondays, 5:30pm-6:23pm",       "location": "Old Computer Science 2114", "ta_1": "TBD", "ta_2": "TBD" },
+        {   "section": "<strong>R05</strong> (Banerjee)",   "day_time": "Tuesdays, 5:30pm-6:23pm",      "location": "Old Computer Science 2114", "ta_1": "TBD", "ta_2": "TBD" },
+        {   "section": "<strong>R06</strong> (Banerjee)",   "day_time": "Thursdays, 5:30pm-6:23pm",     "location": "New Computer Science 2114", "ta_1": "TBD", "ta_2": "TBD" },
+        {   "section": "<strong>R07</strong> (Banerjee)",   "day_time": "Tuesdays, 4:00pm-4:53am",      "location": "New Computer Science 2114", "ta_1": "TBD", "ta_2": "TBD" }
+    ]    
+}
